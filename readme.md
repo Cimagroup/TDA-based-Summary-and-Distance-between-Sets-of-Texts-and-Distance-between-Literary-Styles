@@ -1,6 +1,6 @@
 # Towards a Philological Metric through a Topological Data Analysis Approach
 
-This repository correspond to the code used in the analogous
+This repository corresponds to the code used in the analogous
 paper (to appear in ArXiv). 
 
 The dataset used is part of the [CorpusSonetosSigloDeOro](https://github.com/bncolorado/CorpusSonetosSigloDeOro) repository.
