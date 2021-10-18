@@ -1,4 +1,4 @@
-# Towards a Philological Metric through a Topological Data Analysis Approach
+# TDA based Summary and Distance between Sets of Texts and Distance between Literary Styles
 
 The dataset used is part of the [CorpusSonetosSigloDeOro](https://github.com/bncolorado/CorpusSonetosSigloDeOro) repository.
 
