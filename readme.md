@@ -2,9 +2,9 @@
 
 The dataset used is part of the [CorpusSonetosSigloDeOro](https://github.com/bncolorado/CorpusSonetosSigloDeOro) repository.
 
-* In [poets_comparison.py](https://github.com/Cimagroup/TDA-based-text-metrics/blob/master/poets_comparison.py) were the bottleneck distance computation of the experimentation is done.
+* In [poets_comparison.py](https://github.com/Cimagroup/TDA-based-text-metrics/blob/master/poets_comparison.py), the bottleneck distance computation of the experimentation is done.
 
-* In [poets_comparison_entropy.py](https://github.com/Cimagroup/TDA-based-text-metrics/blob/master/poets_comparison_entropy.py) were the bottleneck distance computation of the experimentation is done.
+* In [poets_comparison_entropy.py](https://github.com/Cimagroup/TDA-based-text-metrics/blob/master/poets_comparison_entropy.py), the bottleneck distance computation of the experimentation is done.
 
 * In the folder [Results](https://github.com/Cimagroup/TDA-based-text-metrics/blob/master/Results), the bottleneck distance values of 100 iterations of the algorithm is provided.
 
