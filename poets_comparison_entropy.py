@@ -95,7 +95,7 @@ for i in range(100):
     dgmsG = r.ripser(Gongora_embedding, metric = "cosine")['dgms']
     dgmsL = r.ripser(Lope_embedding, metric = "cosine")['dgms']
     
-    num_bars = np.min([len(dgmsQ[0]),len(dgmsL[0]),len(dgmsL[1])])
+    num_bars = np.min([len(dgmsQ[0]),len(dgmsL[0]),len(dgmsL[0])])
     
     pcos1 = persistent_entropy(dgmsQ[0][-num_bars:])
     pcos2 = persistent_entropy(dgmsL[0][-num_bars:])
